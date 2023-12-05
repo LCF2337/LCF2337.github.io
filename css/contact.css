@@ -1,0 +1,29 @@
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
+
+legend {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+select, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.form-buttons {
+  text-align: center;
+}

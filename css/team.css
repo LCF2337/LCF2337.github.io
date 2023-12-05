@@ -1,0 +1,14 @@
+article {
+  margin-bottom: 20px;
+}
+
+article img {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.company-story img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 5px;
+}
